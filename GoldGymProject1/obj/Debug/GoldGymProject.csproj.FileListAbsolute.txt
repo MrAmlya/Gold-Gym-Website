@@ -1,0 +1,7 @@
+D:\project development\GoldGymProject1\GoldGymProject1\bin\GoldGymProject1.dll.config
+D:\project development\GoldGymProject1\GoldGymProject1\bin\GoldGymProject1.dll
+D:\project development\GoldGymProject1\GoldGymProject1\bin\GoldGymProject1.pdb
+D:\project development\GoldGymProject1\GoldGymProject1\obj\Debug\GoldGymProject1.dll
+D:\project development\GoldGymProject1\GoldGymProject1\obj\Debug\GoldGymProject1.pdb
+D:\project development\GoldGymProject1\GoldGymProject1\obj\Debug\GoldGymProject.csprojAssemblyReference.cache
+D:\project development\GoldGymProject1\GoldGymProject1\obj\Debug\GoldGymProject.csproj.CoreCompileInputs.cache
